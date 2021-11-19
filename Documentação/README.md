@@ -1,5 +1,5 @@
 
-# Atividade construção de um modelo DER + Banco de Dados de um blog pessoal 
+#  DER + Banco de Dados do blog pessoal 
 
 ## 1 - Visualização do DER
 [Para visualizar o DER clique aqui](https://dbdesigner.page.link/11aRwfjVX6hDdwAN7)
