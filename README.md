@@ -7,7 +7,7 @@
 
 <h1 align= "center"> 📕 Projeto Blog Pessoal (Back End) </h1>
 
-[![GitHub issues](https://img.shields.io/github/issues/anagjorge/blogPessoal_CRUD?color=blue&logo=GitHub)](https://github.com/anagjorge/blogPessoal/issues)
+[![GitHub issues](https://img.shields.io/github/issues/anagjorge/blogPessoal?color=blue&logo=GitHub)](https://github.com/anagjorge/blogPessoal/issues)
 [![GitHub forks](https://img.shields.io/github/forks/anagjorge/blogPessoal?logo=GitHub)](https://github.com/anagjorge/blogPessoal/network)
 [![GitHub stars](https://img.shields.io/github/stars/anagjorge/blogPessoal?logo=github)](https://github.com/anagjorge/blogPessoal/stargazers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/anagjorge/blogPessoal?color=blue)
