@@ -1,4 +1,7 @@
+
+
 <br />
+
 <p align="center">
   <a href="https://brazil.generation.org/">
     <img src="https://i.imgur.com/a7DquFK.png" alt="Logo" >
@@ -36,9 +39,11 @@ Durante o módulo II, o foco é a construção do back-end do projeto, responsá
 
 - [x] Efetuar login com nome de usuário e senha
 
-</br>
+- [x] Gerar um token para que o usuário possa realizar as consultas
 
-## :construction_worker: Configuração de Ambiente
+   </br>
+
+## 	:construction_worker: Configuração de Ambiente
 É necessário ter instalado as seguintes ferramentas:
 
 - [x] [Java versão 8 ou superior](https://www.oracle.com/java/technologies/downloads/)
@@ -50,9 +55,43 @@ Durante o módulo II, o foco é a construção do back-end do projeto, responsá
 - [x] [MySql](https://www.mysql.com/) 
 
 - [x] [Postman](https://www.postman.com/) 
-</br>
+  </br>
+
+  
+
+ ## 🚀Execução 
+
+    
+  1. Clone este repositório 
+
+      ```
+     $ git clone https://github.com/anagjorge/blogPessoal.git
+      ```
+ 
+
+ 2. Workspace 
+    
+      ```
+      $ Inicialize o projeto via STS ou VSCode
+     ```
+
+  3. Realize o acesso pelo navegador 
+
+      ```
+     $ http://localhost:8080/(nome do endpoint)
+      ```
+  4. Realize o acesso via Swagger
+
+      ```
+     $ http://localhost:8080/swagger-ui.html#/
+      ```
+
+              
+
+
 
 ## 💪 Como contribuir para o projeto
+
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
@@ -75,8 +114,7 @@ Esse projeto está sob a licença MIT.
 
 <!-- CONTACT -->
 <div align="center">
-  
+
    [![Linkedin Badge](https://img.shields.io/badge/-Ana%20Jorge-292929?color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-jessica-jorge/)](https://www.linkedin.com/in/ana-jessica-jorge/)
 
    </div>
-
