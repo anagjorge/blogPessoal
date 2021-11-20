@@ -55,7 +55,8 @@ Durante o módulo II, o foco é a construção do back-end do projeto, responsá
 - [x] [MySql](https://www.mysql.com/) 
 
 - [x] [Postman](https://www.postman.com/) 
-  </br>
+
+</br>
 
   
 
