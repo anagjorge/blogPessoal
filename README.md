@@ -19,7 +19,7 @@
 
 ## 📄 Sobre
 <p align ="center">
-<p>O Blog Pessoal é um projeto que está sendo desenvolvido durante o módulo II do Bootcamp da Generation Brasil, no qual os usuários podem criar postagens sobre diversos temas, assim como visualizar postagens de outros usuários.
+<p>O Blog Pessoal é um projeto que está sendo desenvolvido durante o bloco II do Bootcamp da Generation Brasil, no qual os usuários podem criar postagens sobre diversos temas, assim como visualizar postagens de outros usuários.
 <br />
 Durante o módulo II, o foco é a construção do back-end do projeto, responsável pela manipulação dos dados, acesso ao servidor e regras de negócio da aplicação.</p>
 
@@ -60,7 +60,7 @@ Durante o módulo II, o foco é a construção do back-end do projeto, responsá
 
   
 
- ## 🚀Execução 
+ ## 🚀Como executar 
 
     
   1. Clone este repositório 
