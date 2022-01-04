@@ -6,7 +6,7 @@
 
 [Para visualizar a versão PDF clique aqui](https://github.com/anagjorge/Exercicios_SQL/blob/main/Blog-dbdesigner.pdf)
 
-![DER](https://github.com/anagjorge/DER_blogPessoal/blob/main/DER_Image.png)
+![DER](https://github.com/anagjorge/blogPessoal-backend/blob/master/Documenta%C3%A7%C3%A3o/DER_Image.png)
 
 ## 2 - Dicionário de dados 
 
